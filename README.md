@@ -82,3 +82,7 @@ Mods:
 [BattleTowers](https://www.curseforge.com/minecraft/mc-mods/brassamberbattletowers)
 
 [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
+
+[Packed Up](https://www.curseforge.com/minecraft/mc-mods/packed-up-backpacks/files/6091445)
+
+[Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
