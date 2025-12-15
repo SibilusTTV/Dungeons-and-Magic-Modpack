@@ -78,3 +78,7 @@ Mods:
 [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 
 [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
+
+[BattleTowers](https://www.curseforge.com/minecraft/mc-mods/brassamberbattletowers)
+
+[Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
