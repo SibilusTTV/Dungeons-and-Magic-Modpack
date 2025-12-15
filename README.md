@@ -64,3 +64,17 @@ Mods:
 [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 
 [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+
+[Ametrin API](https://www.curseforge.com/minecraft/mc-mods/ametrin/files/4582509)
+
+[Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
+
+[Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced)
+
+[Twilight Aether](https://modrinth.com/mod/twilight-aether)
+
+[Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed)
+
+[Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
+
+[Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks)
