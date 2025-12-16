@@ -86,3 +86,15 @@ Mods:
 [Packed Up](https://www.curseforge.com/minecraft/mc-mods/packed-up-backpacks/files/6091445)
 
 [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+
+[JEI Integrations](https://www.curseforge.com/minecraft/mc-mods/jei-integration)
+
+[Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+
+[Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
+
+[Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
+
+[TreeChop](https://www.curseforge.com/minecraft/mc-mods/treechop)
+
+[Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/relations/dependencies)
