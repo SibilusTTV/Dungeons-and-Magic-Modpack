@@ -98,3 +98,25 @@ Mods:
 [TreeChop](https://www.curseforge.com/minecraft/mc-mods/treechop)
 
 [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts/relations/dependencies)
+
+[When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
+
+[When Dungeons Arise: Seven Seas](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-seven-seas/files/4981380)
+
+[Yung's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
+
+[Yung's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+
+[Yung's Brigdes](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+
+[Yung's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
+
+[Yung's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+
+[Yung's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+
+[Hexxit Gear R](https://www.curseforge.com/minecraft/mc-mods/hexxit-gear-r)
+
+[Better Invisibility](https://www.curseforge.com/minecraft/mc-mods/better-invisibility)
+
+[Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare)
