@@ -118,5 +118,3 @@ Mods:
 [Hexxit Gear R](https://www.curseforge.com/minecraft/mc-mods/hexxit-gear-r)
 
 [Better Invisibility](https://www.curseforge.com/minecraft/mc-mods/better-invisibility)
-
-[Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare)
