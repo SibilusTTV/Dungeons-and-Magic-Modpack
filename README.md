@@ -31,8 +31,6 @@ Mods:
 
 [GlitchCore](https://www.curseforge.com/minecraft/mc-mods/glitchcore)
 
-[Horse Statistics](https://www.curseforge.com/minecraft/mc-mods/horse-statistics)
-
 [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 
 [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
@@ -118,3 +116,7 @@ Mods:
 [Hexxit Gear R](https://www.curseforge.com/minecraft/mc-mods/hexxit-gear-r)
 
 [Better Invisibility](https://www.curseforge.com/minecraft/mc-mods/better-invisibility)
+
+[Enchanting Enfuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser)
+
+[Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
