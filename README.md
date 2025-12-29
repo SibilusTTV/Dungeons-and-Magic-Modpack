@@ -120,3 +120,9 @@ Mods:
 [Enchanting Enfuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser)
 
 [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
+
+[Create: Copycats+](https://www.curseforge.com/minecraft/mc-mods/copycats)
+
+[Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)
+
+[Create: Interiors](https://www.curseforge.com/minecraft/mc-mods/interiors)
