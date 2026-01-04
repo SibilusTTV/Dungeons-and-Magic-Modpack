@@ -128,3 +128,5 @@ Mods:
 [Create: Interiors](https://www.curseforge.com/minecraft/mc-mods/interiors)
 
 [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
+
+[CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
