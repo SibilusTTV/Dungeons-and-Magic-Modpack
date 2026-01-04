@@ -126,3 +126,5 @@ Mods:
 [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)
 
 [Create: Interiors](https://www.curseforge.com/minecraft/mc-mods/interiors)
+
+[Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
