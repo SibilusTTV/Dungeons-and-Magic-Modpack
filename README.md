@@ -130,3 +130,7 @@ Mods:
 [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 
 [CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
+
+[Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
+
+[More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
