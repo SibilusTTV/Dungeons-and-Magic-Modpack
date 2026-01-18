@@ -134,3 +134,5 @@ Mods:
 [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 
 [More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+
+[Create : Bits 'n' Bobs](https://modrinth.com/mod/create-bits-n-bobs)
